@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-martsount-untils",
-  "description": "martsound的管理整合插件",
+  "description": "martsount的管理整合插件",
   "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
