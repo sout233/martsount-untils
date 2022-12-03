@@ -1,5 +1,5 @@
-# martsount-untils
+# koishi-plugin-martsount-untils
 
-不用看了，全是粪代码（
+[![npm](https://img.shields.io/npm/v/koishi-plugin-martsount-untils?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-martsount-untils)
 
-若可修改请务必修改
+martsound的管理整合插件
